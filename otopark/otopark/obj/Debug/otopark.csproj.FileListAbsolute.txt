@@ -1,0 +1,12 @@
+D:\C# Deneme\otopark\otopark\bin\Debug\otopark.exe.config
+D:\C# Deneme\otopark\otopark\bin\Debug\otopark.exe
+D:\C# Deneme\otopark\otopark\obj\Debug\otopark.csprojAssemblyReference.cache
+D:\C# Deneme\otopark\otopark\obj\Debug\otopark.Form1.resources
+D:\C# Deneme\otopark\otopark\obj\Debug\otopark.Form2.resources
+D:\C# Deneme\otopark\otopark\obj\Debug\otopark.Form3.resources
+D:\C# Deneme\otopark\otopark\obj\Debug\otopark.Properties.Resources.resources
+D:\C# Deneme\otopark\otopark\obj\Debug\otopark.csproj.GenerateResource.cache
+D:\C# Deneme\otopark\otopark\obj\Debug\otopark.csproj.CoreCompileInputs.cache
+D:\C# Deneme\otopark\otopark\obj\Debug\otopark.exe
+D:\C# Deneme\otopark\otopark\obj\Debug\otopark.pdb
+D:\C# Deneme\otopark\otopark\bin\Debug\otopark.pdb
